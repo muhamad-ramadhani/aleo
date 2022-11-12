@@ -51,6 +51,9 @@ cd snarkOS
 screen -R prover
 ```
 - Masukan Private key kalian 
+
+![image](https://user-images.githubusercontent.com/72949170/201470563-eaa473c2-1cb0-4330-a4c0-672537b46aa5.png)
+
 - Untuk keluar dari log seperti biasa tekan ```CTRL```+```A```+```D```
 - Untuk kembali ke screen log bisa dengan ```screen -Rd prover```
 
