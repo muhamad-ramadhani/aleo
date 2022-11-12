@@ -50,6 +50,10 @@ cd snarkOS
 ```
 screen -R prover
 ```
+
+```
+./run-prover.sh
+```
 - Masukan Private key kalian 
 
 ![image](https://user-images.githubusercontent.com/72949170/201470563-eaa473c2-1cb0-4330-a4c0-672537b46aa5.png)
