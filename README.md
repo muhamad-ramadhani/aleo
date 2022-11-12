@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="60%" height="auto" src="https://user-images.githubusercontent.com/72949170/201470254-dfc37404-95bf-4a75-9b6d-99750cb78268.png">
+  <img width="60%" height="auto" src="https://user-images.githubusercontent.com/72949170/201470601-cc7f7345-152b-4696-b653-20046a3344ce.png">
 </p>
 
 # ALEO PROVERS TESTNET
